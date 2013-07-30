@@ -1,5 +1,5 @@
 {
-  "name": "moment-lang-de",
+  "name": "momentjs-lang-de",
   "version": "2.1.0",
-  "main": "de.js",
+  "main": "de.js"
 }
